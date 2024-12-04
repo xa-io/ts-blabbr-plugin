@@ -1,10 +1,11 @@
 # Blabbr
 
-A Lua plugin for Teamspeak 3 that will display the name of the speaker in the chatbox.
+A Lua plugin for Teamspeak 3 that displays the name of the speaker in the chatbox, now with timestamps!
 
 **Recent updates**
 1. Display the speaker name in color. Edit `events.lua` to change the color.
 2. Click on the speaker name to see a context menu.
+3. **New**: Prepend the speaker's name with a timestamp in `<HH:MM:SS>` format.
 
 ## Example
 
